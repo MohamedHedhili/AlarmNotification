@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlarmNotification</string>
+    <string-array name="All_meeting">
+       <item>Meeting 1 : 16 h  in   DEV CENTER 02/12/2016 </item>
+        <item>Meeting 2: 18 h  in   BMC ENTREPRISE  16/12/2016</item>
+        <item>Meeting 3: 10 h  in   BMC ENTREPRISE  16/11/2016</item>
+        <item>Meeting 4: 12 h  in   Smart thinking   1/11/2016</item>
+
+    </string-array>
+</resources>
